@@ -34,7 +34,7 @@
     --max-width: 50ch;
     --body: 'Fanwood Text', system-ui, sans-serif;
     --heading: 'Adhesion', system-ui, sans-serif;
-    --font-size-1: calc(1.25rem + .45vw);
+    --font-size-1: calc(1.25rem + .35vw);
     --font-size-2: calc(1.25rem + .7vw);
     --heading-1: calc(1.7rem + 2.5vw);
     --primary: #111;
